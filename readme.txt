@@ -17,4 +17,3 @@ then enter: `node index.js` or `nodemon` in the terminal
 then go to the browser and enter localhost:8000 to start the web APP
 
 
-Thanks!!!
