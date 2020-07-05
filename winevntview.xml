@@ -1,0 +1,1507 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Events>
+    <Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+        <System>
+            <Provider Name="SecurityCenter" />
+            <EventID Qualifiers="0">15</EventID>
+            <Level>4</Level>
+            <Task>0</Task>
+            <Keywords>0x80000000000000</Keywords>
+            <TimeCreated SystemTime="2020-06-12T11:30:30.806878100Z" />
+            <EventRecordID>624</EventRecordID>
+            <Channel>Application</Channel>
+            <Computer>MSEDGEWIN10</Computer>
+            <Security />
+        </System>
+        <EventData>
+            <Data>Windows Defender</Data>
+            <Data>SECURITY_PRODUCT_STATE_ON</Data>
+        </EventData>
+        <RenderingInfo Culture="en-US">
+            <Message>Updated Windows Defender status successfully to SECURITY_PRODUCT_STATE_ON.</Message>
+            <Level>Information</Level>
+            <Task />
+            <Opcode>Info</Opcode>
+            <Channel />
+            <Provider />
+            <Keywords>
+                <Keyword>Classic</Keyword>
+            </Keywords>
+        </RenderingInfo>
+    </Event>
+    <Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+        <System>
+            <Provider Name="SecurityCenter" />
+            <EventID Qualifiers="0">15</EventID>
+            <Level>4</Level>
+            <Task>0</Task>
+            <Keywords>0x80000000000000</Keywords>
+            <TimeCreated SystemTime="2020-06-12T11:30:30.608891600Z" />
+            <EventRecordID>623</EventRecordID>
+            <Channel>Application</Channel>
+            <Computer>MSEDGEWIN10</Computer>
+            <Security />
+        </System>
+        <EventData>
+            <Data>Windows Defender</Data>
+            <Data>SECURITY_PRODUCT_STATE_ON</Data>
+        </EventData>
+        <RenderingInfo Culture="en-US">
+            <Message>Updated Windows Defender status successfully to SECURITY_PRODUCT_STATE_ON.</Message>
+            <Level>Information</Level>
+            <Task />
+            <Opcode>Info</Opcode>
+            <Channel />
+            <Provider />
+            <Keywords>
+                <Keyword>Classic</Keyword>
+            </Keywords>
+        </RenderingInfo>
+    </Event>
+    <Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+        <System>
+            <Provider Name="SecurityCenter" />
+            <EventID Qualifiers="0">15</EventID>
+            <Level>4</Level>
+            <Task>0</Task>
+            <Keywords>0x80000000000000</Keywords>
+            <TimeCreated SystemTime="2020-06-12T11:30:15.635697900Z" />
+            <EventRecordID>622</EventRecordID>
+            <Channel>Application</Channel>
+            <Computer>MSEDGEWIN10</Computer>
+            <Security />
+        </System>
+        <EventData>
+            <Data>Windows Defender</Data>
+            <Data>SECURITY_PRODUCT_STATE_ON</Data>
+        </EventData>
+        <RenderingInfo Culture="en-US">
+            <Message>Updated Windows Defender status successfully to SECURITY_PRODUCT_STATE_ON.</Message>
+            <Level>Information</Level>
+            <Task />
+            <Opcode>Info</Opcode>
+            <Channel />
+            <Provider />
+            <Keywords>
+                <Keyword>Classic</Keyword>
+            </Keywords>
+        </RenderingInfo>
+    </Event>
+    <Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+        <System>
+            <Provider Name="SecurityCenter" />
+            <EventID Qualifiers="0">15</EventID>
+            <Level>4</Level>
+            <Task>0</Task>
+            <Keywords>0x80000000000000</Keywords>
+            <TimeCreated SystemTime="2020-06-12T11:30:14.572266500Z" />
+            <EventRecordID>621</EventRecordID>
+            <Channel>Application</Channel>
+            <Computer>MSEDGEWIN10</Computer>
+            <Security />
+        </System>
+        <EventData>
+            <Data>Windows Defender</Data>
+            <Data>SECURITY_PRODUCT_STATE_ON</Data>
+        </EventData>
+        <RenderingInfo Culture="en-US">
+            <Message>Updated Windows Defender status successfully to SECURITY_PRODUCT_STATE_ON.</Message>
+            <Level>Information</Level>
+            <Task />
+            <Opcode>Info</Opcode>
+            <Channel />
+            <Provider />
+            <Keywords>
+                <Keyword>Classic</Keyword>
+            </Keywords>
+        </RenderingInfo>
+    </Event>
+    <Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+        <System>
+            <Provider Name="Microsoft-Windows-Security-SPP" Guid="{E23B33B0-C8C9-472C-A5F9-F2BDFEA0F156}" EventSourceName="Software Protection Platform Service" />
+            <EventID Qualifiers="16384">16384</EventID>
+            <Version>0</Version>
+            <Level>4</Level>
+            <Task>0</Task>
+            <Opcode>0</Opcode>
+            <Keywords>0x80000000000000</Keywords>
+            <TimeCreated SystemTime="2020-06-12T11:25:29.525943800Z" />
+            <EventRecordID>620</EventRecordID>
+            <Correlation />
+            <Execution ProcessID="0" ThreadID="0" />
+            <Channel>Application</Channel>
+            <Computer>MSEDGEWIN10</Computer>
+            <Security />
+        </System>
+        <EventData>
+            <Data>2020-08-09T19:59:29Z</Data>
+            <Data>RulesEngine</Data>
+        </EventData>
+        <RenderingInfo Culture="en-US">
+            <Message>Successfully scheduled Software Protection service for re-start at 2020-08-09T19:59:29Z. Reason: RulesEngine.</Message>
+            <Level>Information</Level>
+            <Task />
+            <Opcode />
+            <Channel />
+            <Provider>Microsoft-Windows-Security-SPP</Provider>
+            <Keywords>
+                <Keyword>Classic</Keyword>
+            </Keywords>
+        </RenderingInfo>
+    </Event>
+    <Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+        <System>
+            <Provider Name="Microsoft-Windows-Security-SPP" Guid="{E23B33B0-C8C9-472C-A5F9-F2BDFEA0F156}" EventSourceName="Software Protection Platform Service" />
+            <EventID Qualifiers="49152">16394</EventID>
+            <Version>0</Version>
+            <Level>4</Level>
+            <Task>0</Task>
+            <Opcode>0</Opcode>
+            <Keywords>0x80000000000000</Keywords>
+            <TimeCreated SystemTime="2020-06-12T11:24:59.292524100Z" />
+            <EventRecordID>619</EventRecordID>
+            <Correlation />
+            <Execution ProcessID="0" ThreadID="0" />
+            <Channel>Application</Channel>
+            <Computer>MSEDGEWIN10</Computer>
+            <Security />
+        </System>
+        <EventData />
+        <RenderingInfo Culture="en-US">
+            <Message>Offline downlevel migration succeeded.</Message>
+            <Level>Information</Level>
+            <Task />
+            <Opcode />
+            <Channel />
+            <Provider>Microsoft-Windows-Security-SPP</Provider>
+            <Keywords>
+                <Keyword>Classic</Keyword>
+            </Keywords>
+        </RenderingInfo>
+    </Event>
+    <Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+        <System>
+            <Provider Name="Microsoft-Windows-Security-SPP" Guid="{E23B33B0-C8C9-472C-A5F9-F2BDFEA0F156}" EventSourceName="Software Protection Platform Service" />
+            <EventID Qualifiers="16384">16384</EventID>
+            <Version>0</Version>
+            <Level>4</Level>
+            <Task>0</Task>
+            <Opcode>0</Opcode>
+            <Keywords>0x80000000000000</Keywords>
+            <TimeCreated SystemTime="2020-06-12T11:24:00.057827500Z" />
+            <EventRecordID>618</EventRecordID>
+            <Correlation />
+            <Execution ProcessID="0" ThreadID="0" />
+            <Channel>Application</Channel>
+            <Computer>MSEDGEWIN10</Computer>
+            <Security />
+        </System>
+        <EventData>
+            <Data>2020-08-09T19:59:59Z</Data>
+            <Data>RulesEngine</Data>
+        </EventData>
+        <RenderingInfo Culture="en-US">
+            <Message>Successfully scheduled Software Protection service for re-start at 2020-08-09T19:59:59Z. Reason: RulesEngine.</Message>
+            <Level>Information</Level>
+            <Task />
+            <Opcode />
+            <Channel />
+            <Provider>Microsoft-Windows-Security-SPP</Provider>
+            <Keywords>
+                <Keyword>Classic</Keyword>
+            </Keywords>
+        </RenderingInfo>
+    </Event>
+    <Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+        <System>
+            <Provider Name="Microsoft-Windows-Security-SPP" Guid="{E23B33B0-C8C9-472C-A5F9-F2BDFEA0F156}" EventSourceName="Software Protection Platform Service" />
+            <EventID Qualifiers="49152">16394</EventID>
+            <Version>0</Version>
+            <Level>4</Level>
+            <Task>0</Task>
+            <Opcode>0</Opcode>
+            <Keywords>0x80000000000000</Keywords>
+            <TimeCreated SystemTime="2020-06-12T11:23:29.839562700Z" />
+            <EventRecordID>617</EventRecordID>
+            <Correlation />
+            <Execution ProcessID="0" ThreadID="0" />
+            <Channel>Application</Channel>
+            <Computer>MSEDGEWIN10</Computer>
+            <Security />
+        </System>
+        <EventData />
+        <RenderingInfo Culture="en-US">
+            <Message>Offline downlevel migration succeeded.</Message>
+            <Level>Information</Level>
+            <Task />
+            <Opcode />
+            <Channel />
+            <Provider>Microsoft-Windows-Security-SPP</Provider>
+            <Keywords>
+                <Keyword>Classic</Keyword>
+            </Keywords>
+        </RenderingInfo>
+    </Event>
+    <Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+        <System>
+            <Provider Name="Microsoft-Windows-Security-SPP" Guid="{E23B33B0-C8C9-472C-A5F9-F2BDFEA0F156}" EventSourceName="Software Protection Platform Service" />
+            <EventID Qualifiers="16384">16384</EventID>
+            <Version>0</Version>
+            <Level>4</Level>
+            <Task>0</Task>
+            <Opcode>0</Opcode>
+            <Keywords>0x80000000000000</Keywords>
+            <TimeCreated SystemTime="2020-06-12T11:21:20.621854300Z" />
+            <EventRecordID>616</EventRecordID>
+            <Correlation />
+            <Execution ProcessID="0" ThreadID="0" />
+            <Channel>Application</Channel>
+            <Computer>MSEDGEWIN10</Computer>
+            <Security />
+        </System>
+        <EventData>
+            <Data>2020-08-09T19:59:20Z</Data>
+            <Data>RulesEngine</Data>
+        </EventData>
+        <RenderingInfo Culture="en-US">
+            <Message>Successfully scheduled Software Protection service for re-start at 2020-08-09T19:59:20Z. Reason: RulesEngine.</Message>
+            <Level>Information</Level>
+            <Task />
+            <Opcode />
+            <Channel />
+            <Provider>Microsoft-Windows-Security-SPP</Provider>
+            <Keywords>
+                <Keyword>Classic</Keyword>
+            </Keywords>
+        </RenderingInfo>
+    </Event>
+    <Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+        <System>
+            <Provider Name="SecurityCenter" />
+            <EventID Qualifiers="0">15</EventID>
+            <Level>4</Level>
+            <Task>0</Task>
+            <Keywords>0x80000000000000</Keywords>
+            <TimeCreated SystemTime="2020-06-12T11:20:52.699346700Z" />
+            <EventRecordID>615</EventRecordID>
+            <Channel>Application</Channel>
+            <Computer>MSEDGEWIN10</Computer>
+            <Security />
+        </System>
+        <EventData>
+            <Data>Windows Defender</Data>
+            <Data>SECURITY_PRODUCT_STATE_ON</Data>
+        </EventData>
+        <RenderingInfo Culture="en-US">
+            <Message>Updated Windows Defender status successfully to SECURITY_PRODUCT_STATE_ON.</Message>
+            <Level>Information</Level>
+            <Task />
+            <Opcode>Info</Opcode>
+            <Channel />
+            <Provider />
+            <Keywords>
+                <Keyword>Classic</Keyword>
+            </Keywords>
+        </RenderingInfo>
+    </Event>
+    <Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+        <System>
+            <Provider Name="SecurityCenter" />
+            <EventID Qualifiers="0">15</EventID>
+            <Level>4</Level>
+            <Task>0</Task>
+            <Keywords>0x80000000000000</Keywords>
+            <TimeCreated SystemTime="2020-06-12T11:20:52.699346700Z" />
+            <EventRecordID>614</EventRecordID>
+            <Channel>Application</Channel>
+            <Computer>MSEDGEWIN10</Computer>
+            <Security />
+        </System>
+        <EventData>
+            <Data>Windows Defender</Data>
+            <Data>SECURITY_PRODUCT_STATE_ON</Data>
+        </EventData>
+        <RenderingInfo Culture="en-US">
+            <Message>Updated Windows Defender status successfully to SECURITY_PRODUCT_STATE_ON.</Message>
+            <Level>Information</Level>
+            <Task />
+            <Opcode>Info</Opcode>
+            <Channel />
+            <Provider />
+            <Keywords>
+                <Keyword>Classic</Keyword>
+            </Keywords>
+        </RenderingInfo>
+    </Event>
+    <Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+        <System>
+            <Provider Name="SecurityCenter" />
+            <EventID Qualifiers="0">1</EventID>
+            <Level>4</Level>
+            <Task>0</Task>
+            <Keywords>0x80000000000000</Keywords>
+            <TimeCreated SystemTime="2020-06-12T11:20:50.654658900Z" />
+            <EventRecordID>613</EventRecordID>
+            <Channel>Application</Channel>
+            <Computer>MSEDGEWIN10</Computer>
+            <Security />
+        </System>
+        <EventData />
+        <RenderingInfo Culture="en-US">
+            <Message>The Windows Security Center Service has started.</Message>
+            <Level>Information</Level>
+            <Task />
+            <Opcode>Info</Opcode>
+            <Channel />
+            <Provider />
+            <Keywords>
+                <Keyword>Classic</Keyword>
+            </Keywords>
+        </RenderingInfo>
+    </Event>
+    <Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+        <System>
+            <Provider Name="Microsoft-Windows-Security-SPP" Guid="{E23B33B0-C8C9-472C-A5F9-F2BDFEA0F156}" EventSourceName="Software Protection Platform Service" />
+            <EventID Qualifiers="49152">16394</EventID>
+            <Version>0</Version>
+            <Level>4</Level>
+            <Task>0</Task>
+            <Opcode>0</Opcode>
+            <Keywords>0x80000000000000</Keywords>
+            <TimeCreated SystemTime="2020-06-12T11:20:50.417515800Z" />
+            <EventRecordID>612</EventRecordID>
+            <Correlation />
+            <Execution ProcessID="0" ThreadID="0" />
+            <Channel>Application</Channel>
+            <Computer>MSEDGEWIN10</Computer>
+            <Security />
+        </System>
+        <EventData />
+        <RenderingInfo Culture="en-US">
+            <Message>Offline downlevel migration succeeded.</Message>
+            <Level>Information</Level>
+            <Task />
+            <Opcode />
+            <Channel />
+            <Provider>Microsoft-Windows-Security-SPP</Provider>
+            <Keywords>
+                <Keyword>Classic</Keyword>
+            </Keywords>
+        </RenderingInfo>
+    </Event>
+    <Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+        <System>
+            <Provider Name="Microsoft-Windows-Security-SPP" Guid="{E23B33B0-C8C9-472C-A5F9-F2BDFEA0F156}" EventSourceName="Software Protection Platform Service" />
+            <EventID Qualifiers="16384">900</EventID>
+            <Version>0</Version>
+            <Level>4</Level>
+            <Task>0</Task>
+            <Opcode>0</Opcode>
+            <Keywords>0x80000000000000</Keywords>
+            <TimeCreated SystemTime="2020-06-12T11:20:49.824652800Z" />
+            <EventRecordID>611</EventRecordID>
+            <Correlation />
+            <Execution ProcessID="0" ThreadID="0" />
+            <Channel>Application</Channel>
+            <Computer>MSEDGEWIN10</Computer>
+            <Security />
+        </System>
+        <EventData>
+            <Data>&lt;explicit&gt;</Data>
+        </EventData>
+        <RenderingInfo Culture="en-US">
+            <Message>The Software Protection service is starting.
+			Parameters:&lt;explicit&gt;</Message>
+            <Level>Information</Level>
+            <Task />
+            <Opcode />
+            <Channel />
+            <Provider>Microsoft-Windows-Security-SPP</Provider>
+            <Keywords>
+                <Keyword>Classic</Keyword>
+            </Keywords>
+        </RenderingInfo>
+    </Event>
+    <Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+        <System>
+            <Provider Name="Puppet" />
+            <EventID Qualifiers="0">3</EventID>
+            <Level>2</Level>
+            <Task>0</Task>
+            <Keywords>0x80000000000000</Keywords>
+            <TimeCreated SystemTime="2020-06-12T11:20:42.216030500Z" />
+            <EventRecordID>610</EventRecordID>
+            <Channel>Application</Channel>
+            <Computer>MSEDGEWIN10</Computer>
+            <Security />
+        </System>
+        <EventData>
+            <Data>Could not request certificate: getaddrinfo: No such host is known.</Data>
+        </EventData>
+        <RenderingInfo Culture="en-US">
+            <Message>Could not request certificate: getaddrinfo: No such host is known.</Message>
+            <Level>Error</Level>
+            <Task />
+            <Opcode>Info</Opcode>
+            <Channel />
+            <Provider />
+            <Keywords>
+                <Keyword>Classic</Keyword>
+            </Keywords>
+        </RenderingInfo>
+    </Event>
+    <Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+        <System>
+            <Provider Name="Puppet" />
+            <EventID Qualifiers="0">1</EventID>
+            <Level>4</Level>
+            <Task>0</Task>
+            <Keywords>0x80000000000000</Keywords>
+            <TimeCreated SystemTime="2020-06-12T11:20:03.511380000Z" />
+            <EventRecordID>609</EventRecordID>
+            <Channel>Application</Channel>
+            <Computer>MSEDGEWIN10</Computer>
+            <Security />
+        </System>
+        <EventData>
+            <Data>Executing agent with arguments:</Data>
+        </EventData>
+        <RenderingInfo Culture="en-US">
+            <Message>Executing agent with arguments:</Message>
+            <Level>Information</Level>
+            <Task />
+            <Opcode>Info</Opcode>
+            <Channel />
+            <Provider />
+            <Keywords>
+                <Keyword>Classic</Keyword>
+            </Keywords>
+        </RenderingInfo>
+    </Event>
+    <Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+        <System>
+            <Provider Name="Microsoft-Windows-Search" Guid="{CA4E628D-8567-4896-AB6B-835B221F373F}" EventSourceName="Windows Search Service" />
+            <EventID Qualifiers="16384">1003</EventID>
+            <Version>0</Version>
+            <Level>4</Level>
+            <Task>1</Task>
+            <Opcode>0</Opcode>
+            <Keywords>0x80000000000000</Keywords>
+            <TimeCreated SystemTime="2020-06-12T11:19:59.682608500Z" />
+            <EventRecordID>608</EventRecordID>
+            <Correlation />
+            <Execution ProcessID="0" ThreadID="0" />
+            <Channel>Application</Channel>
+            <Computer>MSEDGEWIN10</Computer>
+            <Security />
+        </System>
+        <EventData>
+            <Data Name="ExtraInfo" />
+        </EventData>
+        <RenderingInfo Culture="en-US">
+            <Message>The Windows Search Service started.</Message>
+            <Level>Information</Level>
+            <Task>Search service</Task>
+            <Opcode />
+            <Channel />
+            <Provider>Microsoft-Windows-Search</Provider>
+            <Keywords>
+                <Keyword>Classic</Keyword>
+            </Keywords>
+        </RenderingInfo>
+    </Event>
+    <Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+        <System>
+            <Provider Name="ESENT" />
+            <EventID Qualifiers="0">326</EventID>
+            <Level>4</Level>
+            <Task>1</Task>
+            <Keywords>0x80000000000000</Keywords>
+            <TimeCreated SystemTime="2020-06-12T11:19:59.072698600Z" />
+            <EventRecordID>607</EventRecordID>
+            <Channel>Application</Channel>
+            <Computer>MSEDGEWIN10</Computer>
+            <Security />
+        </System>
+        <EventData>
+            <Data>SearchIndexer</Data>
+            <Data>5484,D,50</Data>
+            <Data>Windows:</Data>
+            <Data>1</Data>
+            <Data>C:\ProgramData\Microsoft\Search\Data\Applications\Windows\Windows.edb</Data>
+            <Data>1</Data>
+            <Data>[1] 0.000002 +J(0)
+				[2] 0.000294 +J(0) +M(C:0K, Fs:24, WS:32K # 0K, PF:32K # 0K, P:32K)
+				[3] 0.118779 -0.046001 (5) WT +J(CM:0, PgRf:0, Rd:0/0, Dy:0/0, Lg:3480/2) +M(C:0K, Fs:17, WS:36K # 0K, PF:20K # 0K, P:20K)
+				[4] 0.000129 +J(0)
+				[5] -
+				[6] -
+				[7] -
+				[8] 0.001752 -0.001375 (2) CM +J(CM:2, PgRf:2, Rd:14/2, Dy:0/0, Lg:0/0) +M(C:0K, Fs:16, WS:64K # 0K, PF:512K # 0K, P:512K)
+				[9] 1.360475 -0.032215 (5) CM -1.327915 (3) WT +J(CM:5, PgRf:23, Rd:0/5, Dy:0/0, Lg:0/0) +M(C:0K, Fs:69, WS:240K # 0K, PF:228K # 0K, P:228K)
+				[10] 0.042334 -0.041838 (1) CM +J(CM:1, PgRf:40, Rd:0/1, Dy:0/0, Lg:0/0) +M(C:0K, Fs:9, WS:36K # 0K, PF:32K # 0K, P:32K)
+				[11] 0.000023 +J(CM:0, PgRf:1, Rd:0/0, Dy:0/0, Lg:0/0)
+				[12] 0.000071 +J(CM:0, PgRf:42, Rd:0/0, Dy:0/0, Lg:0/0) +M(C:0K, Fs:3, WS:12K # 0K, PF:0K # 0K, P:0K)
+				[13] 0.000002 +J(0)
+				[14] 0.0 +J(0)
+				[15] 0.000010 +J(CM:0, PgRf:1, Rd:0/0, Dy:0/0, Lg:0/0).
+			</Data>
+            <Data>0 0</Data>
+            <Data>lgposAttach = 00000009:0050:0268</Data>
+        </EventData>
+        <RenderingInfo Culture="en-US">
+            <Message>SearchIndexer (5484,D,50) Windows: The database engine attached a database (1, 	C:\ProgramData\Microsoft\Search\Data\Applications\Windows\Windows.edb). (Time=1 seconds) 
+ 
+				Saved Cache: 0 0 
+				Additional Data: lgposAttach = 00000009:0050:0268 
+				 
+				Internal Timing Sequence: 
+				[1] 0.000002 +J(0)
+				[2] 0.000294 +J(0) +M(C:0K, Fs:24, WS:32K # 0K, PF:32K # 0K, P:32K)
+				[3] 0.118779 -0.046001 (5) WT +J(CM:0, PgRf:0, Rd:0/0, Dy:0/0, Lg:3480/2) +M(C:0K, Fs:17, WS:36K # 0K, PF:20K # 0K, P:20K)
+				[4] 0.000129 +J(0)
+				[5] -
+				[6] -
+				[7] -
+				[8] 0.001752 -0.001375 (2) CM +J(CM:2, PgRf:2, Rd:14/2, Dy:0/0, Lg:0/0) +M(C:0K, Fs:16, WS:64K # 0K, PF:512K # 0K, P:512K)
+				[9] 1.360475 -0.032215 (5) CM -1.327915 (3) WT +J(CM:5, PgRf:23, Rd:0/5, Dy:0/0, Lg:0/0) +M(C:0K, Fs:69, WS:240K # 0K, PF:228K # 0K, P:228K)
+				[10] 0.042334 -0.041838 (1) CM +J(CM:1, PgRf:40, Rd:0/1, Dy:0/0, Lg:0/0) +M(C:0K, Fs:9, WS:36K # 0K, PF:32K # 0K, P:32K)
+				[11] 0.000023 +J(CM:0, PgRf:1, Rd:0/0, Dy:0/0, Lg:0/0)
+				[12] 0.000071 +J(CM:0, PgRf:42, Rd:0/0, Dy:0/0, Lg:0/0) +M(C:0K, Fs:3, WS:12K # 0K, PF:0K # 0K, P:0K)
+				[13] 0.000002 +J(0)
+				[14] 0.0 +J(0)
+				[15] 0.000010 +J(CM:0, PgRf:1, Rd:0/0, Dy:0/0, Lg:0/0).</Message>
+            <Level>Information</Level>
+            <Task>General</Task>
+            <Opcode>Info</Opcode>
+            <Channel />
+            <Provider />
+            <Keywords>
+                <Keyword>Classic</Keyword>
+            </Keywords>
+        </RenderingInfo>
+    </Event>
+    <Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+        <System>
+            <Provider Name="ESENT" />
+            <EventID Qualifiers="0">105</EventID>
+            <Level>4</Level>
+            <Task>1</Task>
+            <Keywords>0x80000000000000</Keywords>
+            <TimeCreated SystemTime="2020-06-12T11:19:57.546546100Z" />
+            <EventRecordID>606</EventRecordID>
+            <Channel>Application</Channel>
+            <Computer>MSEDGEWIN10</Computer>
+            <Security />
+        </System>
+        <EventData>
+            <Data>SearchIndexer</Data>
+            <Data>5484,D,0</Data>
+            <Data>Windows:</Data>
+            <Data>0</Data>
+            <Data>2</Data>
+            <Data>[1] 0.001059 +J(0) +M(C:0K, Fs:211, WS:828K # 828K, PF:4964K # 4964K, P:4964K)
+				[2] 0.000221 +J(0) +M(C:0K, Fs:108, WS:432K # 432K, PF:380K # 380K, P:380K)
+				[3] 0.010208 +J(0) +M(C:0K, Fs:41, WS:160K # 160K, PF:80K # 80K, P:80K)
+				[4] 0.000105 +J(0) +M(C:0K, Fs:28, WS:112K # 112K, PF:232K # 232K, P:232K)
+				[5] 0.000567 +J(0) +M(C:0K, Fs:11, WS:44K # 44K, PF:36K # 44K, P:36K)
+				[6] 0.028255 +J(0) +M(C:0K, Fs:72, WS:276K # 276K, PF:48K # 40K, P:48K)
+				[7] 0.002382 +J(0) +M(C:0K, Fs:268, WS:1072K # 1072K, PF:1024K # 1024K, P:1024K)
+				[8] 1.886549 -1.770321 (37) CM -0.052781 (7) WT +J(CM:37, PgRf:393, Rd:0/37, Dy:37/791, Lg:1013510/2923) +M(C:0K, Fs:1260, WS:3104K # 3104K, PF:2684K # 2684K, P:2684K)
+				[9] 0.558993 -0.000037 (11) CM -0.474502 (14) WT +J(CM:11, PgRf:1579, Rd:11/11, Dy:11/3630, Lg:311820/4239) +M(C:0K, Fs:164, WS:588K # 588K, PF:540K # 540K, P:540K) + 1 lgens
+				[10] 0.002868 -0.000386 (1) WT +J(0) +M(C:0K, Fs:0, WS:-1020K # 0K, PF:-1020K # 0K, P:-1020K)
+				[11] 0.000192 +J(CM:0, PgRf:0, Rd:0/0, Dy:0/0, Lg:49/1) +M(C:0K, Fs:2, WS:8K # 0K, PF:0K # 0K, P:0K)
+				[12] 0.204210 -0.000050 (48) CM -0.203167 (4) WT +J(CM:48, PgRf:0, Rd:0/48, Dy:0/0, Lg:0/0) +M(C:0K, Fs:272, WS:24K # 0K, PF:8K # 0K, P:8K)
+				[13] 0.161511 -0.000886 (2) CM -0.149564 (21) WT +J(CM:2, PgRf:2, Rd:0/2, Dy:0/0, Lg:8759/5) +M(C:0K, Fs:314, WS:-2348K # 0K, PF:-2416K # 0K, P:-2416K)
+				[14] 0.000012 +J(0)
+				[15] 0.000012 +J(0)
+				[16] 0.000101 +J(0) +M(C:0K, Fs:2, WS:0K # 0K, PF:0K # 0K, P:0K).
+			</Data>
+            <Data>lgposV2[] = 00000008:00A2:0000 - 00000008:00FE:00C8 - 00000009:004E:0000 - 00000009:004E:0000 (00000000:0000:0000)
+				cReInits = 3</Data>
+        </EventData>
+        <RenderingInfo Culture="en-US">
+            <Message>SearchIndexer (5484,D,0) Windows: The database engine started a new instance (0). (Time=2 seconds) 
+ 
+					Additional Data:
+					 lgposV2[] = 00000008:00A2:0000 - 00000008:00FE:00C8 - 00000009:004E:0000 - 00000009:004E:0000 (00000000:0000:0000)
+					cReInits = 3
+					 
+					 
+					Internal Timing Sequence: 
+					[1] 0.001059 +J(0) +M(C:0K, Fs:211, WS:828K # 828K, PF:4964K # 4964K, P:4964K)
+					[2] 0.000221 +J(0) +M(C:0K, Fs:108, WS:432K # 432K, PF:380K # 380K, P:380K)
+					[3] 0.010208 +J(0) +M(C:0K, Fs:41, WS:160K # 160K, PF:80K # 80K, P:80K)
+					[4] 0.000105 +J(0) +M(C:0K, Fs:28, WS:112K # 112K, PF:232K # 232K, P:232K)
+					[5] 0.000567 +J(0) +M(C:0K, Fs:11, WS:44K # 44K, PF:36K # 44K, P:36K)
+					[6] 0.028255 +J(0) +M(C:0K, Fs:72, WS:276K # 276K, PF:48K # 40K, P:48K)
+					[7] 0.002382 +J(0) +M(C:0K, Fs:268, WS:1072K # 1072K, PF:1024K # 1024K, P:1024K)
+					[8] 1.886549 -1.770321 (37) CM -0.052781 (7) WT +J(CM:37, PgRf:393, Rd:0/37, Dy:37/791, Lg:1013510/2923) +M(C:0K, Fs:1260, WS:3104K # 3104K, PF:2684K # 2684K, P:2684K)
+					[9] 0.558993 -0.000037 (11) CM -0.474502 (14) WT +J(CM:11, PgRf:1579, Rd:11/11, Dy:11/3630, Lg:311820/4239) +M(C:0K, Fs:164, WS:588K # 588K, PF:540K # 540K, P:540K) + 1 lgens
+					[10] 0.002868 -0.000386 (1) WT +J(0) +M(C:0K, Fs:0, WS:-1020K # 0K, PF:-1020K # 0K, P:-1020K)
+					[11] 0.000192 +J(CM:0, PgRf:0, Rd:0/0, Dy:0/0, Lg:49/1) +M(C:0K, Fs:2, WS:8K # 0K, PF:0K # 0K, P:0K)
+					[12] 0.204210 -0.000050 (48) CM -0.203167 (4) WT +J(CM:48, PgRf:0, Rd:0/48, Dy:0/0, Lg:0/0) +M(C:0K, Fs:272, WS:24K # 0K, PF:8K # 0K, P:8K)
+					[13] 0.161511 -0.000886 (2) CM -0.149564 (21) WT +J(CM:2, PgRf:2, Rd:0/2, Dy:0/0, Lg:8759/5) +M(C:0K, Fs:314, WS:-2348K # 0K, PF:-2416K # 0K, P:-2416K)
+					[14] 0.000012 +J(0)
+					[15] 0.000012 +J(0)
+					[16] 0.000101 +J(0) +M(C:0K, Fs:2, WS:0K # 0K, PF:0K # 0K, P:0K).
+			</Message>
+            <Level>Information</Level>
+            <Task>General</Task>
+            <Opcode>Info</Opcode>
+            <Channel />
+            <Provider />
+            <Keywords>
+                <Keyword>Classic</Keyword>
+            </Keywords>
+        </RenderingInfo>
+    </Event>
+    <Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+        <System>
+            <Provider Name="ESENT" />
+            <EventID Qualifiers="0">302</EventID>
+            <Level>4</Level>
+            <Task>3</Task>
+            <Keywords>0x80000000000000</Keywords>
+            <TimeCreated SystemTime="2020-06-12T11:19:57.546546100Z" />
+            <EventRecordID>605</EventRecordID>
+            <Channel>Application</Channel>
+            <Computer>MSEDGEWIN10</Computer>
+            <Security />
+        </System>
+        <EventData>
+            <Data>SearchIndexer</Data>
+            <Data>5484,U,98</Data>
+            <Data>Windows:</Data>
+        </EventData>
+        <RenderingInfo Culture="en-US">
+            <Message>SearchIndexer (5484,U,98) Windows: The database engine has successfully completed recovery steps.</Message>
+            <Level>Information</Level>
+            <Task>Logging/Recovery</Task>
+            <Opcode>Info</Opcode>
+            <Channel />
+            <Provider />
+            <Keywords>
+                <Keyword>Classic</Keyword>
+            </Keywords>
+        </RenderingInfo>
+    </Event>
+    <Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+        <System>
+            <Provider Name="ESENT" />
+            <EventID Qualifiers="0">301</EventID>
+            <Level>4</Level>
+            <Task>3</Task>
+            <Keywords>0x80000000000000</Keywords>
+            <TimeCreated SystemTime="2020-06-12T11:19:57.183878800Z" />
+            <EventRecordID>604</EventRecordID>
+            <Channel>Application</Channel>
+            <Computer>MSEDGEWIN10</Computer>
+            <Security />
+        </System>
+        <EventData>
+            <Data>SearchIndexer</Data>
+            <Data>5484,R,98</Data>
+            <Data>Windows:</Data>
+            <Data>C:\ProgramData\Microsoft\Search\Data\Applications\Windows\edb.jtx</Data>
+            <Data>[1] 0.408308 -0.000037 (11) CM -0.398549 (10) WT +J(CM:11, PgRf:1579, Rd:0/11, Dy:11/3630, Lg:311820/4239) +M(C:0K, Fs:140, WS:528K # 520K, PF:172K # 172K, P:172K).</Data>
+            <Data>Commit</Data>
+            <Data>1014</Data>
+        </EventData>
+        <RenderingInfo Culture="en-US">
+            <Message>SearchIndexer (5484,R,98) Windows: The database engine has finished replaying logfile C:\ProgramData\Microsoft\Search\Data\Applications\Windows\edb.jtx. 
+ 
+			Processing Stats: 
+			[1] 0.408308 -0.000037 (11) CM -0.398549 (10) WT +J(CM:11, PgRf:1579, Rd:0/11, Dy:11/3630, Lg:311820/4239) +M(C:0K, Fs:140, WS:528K # 520K, PF:172K # 172K, P:172K). 
+			Log record of type 'Commit   ' was seen most frequently (1014 times)
+			</Message>
+            <Level>Information</Level>
+            <Task>Logging/Recovery</Task>
+            <Opcode>Info</Opcode>
+            <Channel />
+            <Provider />
+            <Keywords>
+                <Keyword>Classic</Keyword>
+            </Keywords>
+        </RenderingInfo>
+    </Event>
+    <Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+        <System>
+            <Provider Name="ESENT" />
+            <EventID Qualifiers="0">301</EventID>
+            <Level>4</Level>
+            <Task>3</Task>
+            <Keywords>0x80000000000000</Keywords>
+            <TimeCreated SystemTime="2020-06-12T11:19:56.619418500Z" />
+            <EventRecordID>603</EventRecordID>
+            <Channel>Application</Channel>
+            <Computer>MSEDGEWIN10</Computer>
+            <Security />
+        </System>
+        <EventData>
+            <Data>SearchIndexer</Data>
+            <Data>5484,R,98</Data>
+            <Data>Windows:</Data>
+            <Data>C:\ProgramData\Microsoft\Search\Data\Applications\Windows\edb00008.jtx</Data>
+            <Data>[1] 1.847561 -1.770321 (37) CM -0.037510 (5) WT +J(CM:37, PgRf:393, Rd:0/37, Dy:37/791, Lg:1013510/2923) +M(C:0K, Fs:996, WS:2160K # 2068K, PF:1852K # 1756K, P:1852K).</Data>
+            <Data>Commit</Data>
+            <Data>680</Data>
+        </EventData>
+        <RenderingInfo Culture="en-US">
+            <Message>SearchIndexer (5484,R,98) Windows: The database engine has finished replaying logfile C:\ProgramData\Microsoft\Search\Data\Applications\Windows\edb00008.jtx. 
+ 
+			Processing Stats: 
+			[1] 1.847561 -1.770321 (37) CM -0.037510 (5) WT +J(CM:37, PgRf:393, Rd:0/37, Dy:37/791, Lg:1013510/2923) +M(C:0K, Fs:996, WS:2160K # 2068K, PF:1852K # 1756K, P:1852K). 
+			Log record of type 'Commit   ' was seen most frequently (680 times)
+			</Message>
+            <Level>Information</Level>
+            <Task>Logging/Recovery</Task>
+            <Opcode>Info</Opcode>
+            <Channel />
+            <Provider />
+            <Keywords>
+                <Keyword>Classic</Keyword>
+            </Keywords>
+        </RenderingInfo>
+    </Event>
+    <Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+        <System>
+            <Provider Name="ESENT" />
+            <EventID Qualifiers="0">300</EventID>
+            <Level>4</Level>
+            <Task>3</Task>
+            <Keywords>0x80000000000000</Keywords>
+            <TimeCreated SystemTime="2020-06-12T11:19:54.746524900Z" />
+            <EventRecordID>602</EventRecordID>
+            <Channel>Application</Channel>
+            <Computer>MSEDGEWIN10</Computer>
+            <Security />
+        </System>
+        <EventData>
+            <Data>SearchIndexer</Data>
+            <Data>5484,R,98</Data>
+            <Data>Windows:</Data>
+        </EventData>
+        <RenderingInfo Culture="en-US">
+            <Message>SearchIndexer (5484,R,98) Windows: The database engine is initiating recovery steps.</Message>
+            <Level>Information</Level>
+            <Task>Logging/Recovery</Task>
+            <Opcode>Info</Opcode>
+            <Channel />
+            <Provider />
+            <Keywords>
+                <Keyword>Classic</Keyword>
+            </Keywords>
+        </RenderingInfo>
+    </Event>
+    <Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+        <System>
+            <Provider Name="ESENT" />
+            <EventID Qualifiers="0">102</EventID>
+            <Level>4</Level>
+            <Task>1</Task>
+            <Keywords>0x80000000000000</Keywords>
+            <TimeCreated SystemTime="2020-06-12T11:19:54.698820200Z" />
+            <EventRecordID>601</EventRecordID>
+            <Channel>Application</Channel>
+            <Computer>MSEDGEWIN10</Computer>
+            <Security />
+        </System>
+        <EventData>
+            <Data>SearchIndexer</Data>
+            <Data>5484,P,98</Data>
+            <Data>Windows:</Data>
+            <Data>0</Data>
+            <Data>10</Data>
+            <Data>00</Data>
+            <Data>17763</Data>
+            <Data>0000</Data>
+        </EventData>
+        <RenderingInfo Culture="en-US">
+            <Message>SearchIndexer (5484,P,98) Windows: The database engine (10.00.17763.0000) is starting a new instance (0).</Message>
+            <Level>Information</Level>
+            <Task>General</Task>
+            <Opcode>Info</Opcode>
+            <Channel />
+            <Provider />
+            <Keywords>
+                <Keyword>Classic</Keyword>
+            </Keywords>
+        </RenderingInfo>
+    </Event>
+    <Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+        <System>
+            <Provider Name="Microsoft-Windows-Security-SPP" Guid="{E23B33B0-C8C9-472C-A5F9-F2BDFEA0F156}" EventSourceName="Software Protection Platform Service" />
+            <EventID Qualifiers="16384">903</EventID>
+            <Version>0</Version>
+            <Level>0</Level>
+            <Task>0</Task>
+            <Opcode>0</Opcode>
+            <Keywords>0x80000000000000</Keywords>
+            <TimeCreated SystemTime="2020-06-12T11:19:17.805468100Z" />
+            <EventRecordID>600</EventRecordID>
+            <Correlation />
+            <Execution ProcessID="0" ThreadID="0" />
+            <Channel>Application</Channel>
+            <Computer>MSEDGEWIN10</Computer>
+            <Security />
+        </System>
+        <EventData />
+        <RenderingInfo Culture="en-US">
+            <Message>The Software Protection service has stopped.</Message>
+            <Level>Information</Level>
+            <Task />
+            <Opcode />
+            <Channel />
+            <Provider>Microsoft-Windows-Security-SPP</Provider>
+            <Keywords>
+                <Keyword>Classic</Keyword>
+            </Keywords>
+        </RenderingInfo>
+    </Event>
+    <Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+        <System>
+            <Provider Name="Microsoft-Windows-Security-SPP" Guid="{E23B33B0-C8C9-472C-A5F9-F2BDFEA0F156}" EventSourceName="Software Protection Platform Service" />
+            <EventID Qualifiers="16384">16384</EventID>
+            <Version>0</Version>
+            <Level>4</Level>
+            <Task>0</Task>
+            <Opcode>0</Opcode>
+            <Keywords>0x80000000000000</Keywords>
+            <TimeCreated SystemTime="2020-06-12T11:19:17.307360500Z" />
+            <EventRecordID>599</EventRecordID>
+            <Correlation />
+            <Execution ProcessID="0" ThreadID="0" />
+            <Channel>Application</Channel>
+            <Computer>MSEDGEWIN10</Computer>
+            <Security />
+        </System>
+        <EventData>
+            <Data>2020-06-13T11:18:16Z</Data>
+            <Data>TBL</Data>
+        </EventData>
+        <RenderingInfo Culture="en-US">
+            <Message>Successfully scheduled Software Protection service for re-start at 2020-06-13T11:18:16Z. Reason: TBL.</Message>
+            <Level>Information</Level>
+            <Task />
+            <Opcode />
+            <Channel />
+            <Provider>Microsoft-Windows-Security-SPP</Provider>
+            <Keywords>
+                <Keyword>Classic</Keyword>
+            </Keywords>
+        </RenderingInfo>
+    </Event>
+    <Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+        <System>
+            <Provider Name="Microsoft-Windows-Wininit" Guid="{206f6dea-d3c5-4d10-bc72-989f03c8b84b}" EventSourceName="Wininit" />
+            <EventID Qualifiers="16384">1001</EventID>
+            <Version>0</Version>
+            <Level>4</Level>
+            <Task>0</Task>
+            <Opcode>0</Opcode>
+            <Keywords>0x80000000000000</Keywords>
+            <TimeCreated SystemTime="2020-06-12T11:19:08.248532800Z" />
+            <EventRecordID>598</EventRecordID>
+            <Correlation />
+            <Execution ProcessID="0" ThreadID="0" />
+            <Channel>Application</Channel>
+            <Computer>MSEDGEWIN10</Computer>
+            <Security />
+        </System>
+        <EventData>
+            <Data>Checking file system on C:
+				The type of the file system is NTFS.
+				Volume label is Windows 10.
+
+
+				One of your disks needs to be checked for consistency. You
+				may cancel the disk check, but it is strongly recommended
+				that you continue.
+				Windows will now check the disk.                         
+
+				Stage 1: Examining basic file system structure ...
+				  128512 file records processed.                                                        
+
+
+				File verification completed.
+				  4847 large file records processed.                                   
+
+
+				  0 bad file records processed.                                     
+
+
+
+				Stage 2: Examining file name linkage ...
+				  125 reparse records processed.                                      
+
+
+				  191706 index entries processed.                                                       
+
+
+				Index verification completed.
+				  0 unindexed files scanned.                                        
+
+
+				  0 unindexed files recovered to lost and found.                    
+
+
+				  125 reparse records processed.                                      
+
+
+
+				Stage 3: Examining security descriptors ...
+				Cleaning up 560 unused index entries from index $SII of file 0x9.
+				Cleaning up 560 unused index entries from index $SDH of file 0x9.
+				Cleaning up 560 unused security descriptors.
+				Security descriptor verification completed.
+				  31598 data files processed.                                           
+
+
+				CHKDSK is verifying Usn Journal...
+				  39283840 USN bytes processed.                                                           
+
+
+				Usn Journal verification completed.
+
+				Windows has scanned the file system and found no problems.
+				No further action is required.
+
+				  41940991 KB total disk space.
+				  16248520 KB in 91385 files.
+				     75572 KB in 31599 indexes.
+				         0 KB in bad sectors.
+				    226723 KB in use by the system.
+				     56016 KB occupied by the log file.
+				  25390176 KB available on disk.
+
+				      4096 bytes in each allocation unit.
+				  10485247 total allocation units on disk.
+				   6347544 allocation units available on disk.
+
+				Internal Info:
+				00 f6 01 00 73 e0 01 00 59 d5 03 00 00 00 00 00  ....s...Y.......
+				40 00 00 00 3d 00 00 00 00 00 00 00 00 00 00 00  @...=...........
+
+				Windows has finished checking your disk.
+				Please wait while your computer restarts.
+			</Data>
+        </EventData>
+        <RenderingInfo Culture="en-US">
+            <Message>Checking file system on C:
+				The type of the file system is NTFS.
+				Volume label is Windows 10.
+
+
+				One of your disks needs to be checked for consistency. You
+				may cancel the disk check, but it is strongly recommended
+				that you continue.
+				Windows will now check the disk.                         
+
+				Stage 1: Examining basic file system structure ...
+				  128512 file records processed.                                                        
+
+
+				File verification completed.
+				  4847 large file records processed.                                   
+
+
+				  0 bad file records processed.                                     
+
+
+
+				Stage 2: Examining file name linkage ...
+				  125 reparse records processed.                                      
+
+
+				  191706 index entries processed.                                                       
+
+
+				Index verification completed.
+				  0 unindexed files scanned.                                        
+
+
+				  0 unindexed files recovered to lost and found.                    
+
+
+				  125 reparse records processed.                                      
+
+
+
+				Stage 3: Examining security descriptors ...
+				Cleaning up 560 unused index entries from index $SII of file 0x9.
+				Cleaning up 560 unused index entries from index $SDH of file 0x9.
+				Cleaning up 560 unused security descriptors.
+				Security descriptor verification completed.
+				  31598 data files processed.                                           
+
+
+				CHKDSK is verifying Usn Journal...
+				  39283840 USN bytes processed.                                                           
+
+
+				Usn Journal verification completed.
+
+				Windows has scanned the file system and found no problems.
+				No further action is required.
+
+				  41940991 KB total disk space.
+				  16248520 KB in 91385 files.
+				     75572 KB in 31599 indexes.
+				         0 KB in bad sectors.
+				    226723 KB in use by the system.
+				     56016 KB occupied by the log file.
+				  25390176 KB available on disk.
+
+				      4096 bytes in each allocation unit.
+				  10485247 total allocation units on disk.
+				   6347544 allocation units available on disk.
+
+				Internal Info:
+				00 f6 01 00 73 e0 01 00 59 d5 03 00 00 00 00 00  ....s...Y.......
+				40 00 00 00 3d 00 00 00 00 00 00 00 00 00 00 00  @...=...........
+
+				Windows has finished checking your disk.
+				Please wait while your computer restarts.
+			</Message>
+            <Level>Information</Level>
+            <Task />
+            <Opcode />
+            <Channel />
+            <Provider>Microsoft-Windows-Wininit</Provider>
+            <Keywords>
+                <Keyword>Classic</Keyword>
+            </Keywords>
+        </RenderingInfo>
+    </Event>
+    <Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+        <System>
+            <Provider Name="Microsoft-Windows-Winlogon" Guid="{DBE9B383-7CF3-4331-91CC-A3CB16A3B538}" EventSourceName="Wlclntfy" />
+            <EventID Qualifiers="32768">6000</EventID>
+            <Version>0</Version>
+            <Level>4</Level>
+            <Task>0</Task>
+            <Opcode>0</Opcode>
+            <Keywords>0x80000000000000</Keywords>
+            <TimeCreated SystemTime="2020-06-12T11:18:59.603820700Z" />
+            <EventRecordID>597</EventRecordID>
+            <Correlation />
+            <Execution ProcessID="0" ThreadID="0" />
+            <Channel>Application</Channel>
+            <Computer>MSEDGEWIN10</Computer>
+            <Security />
+        </System>
+        <EventData>
+            <Data>SessionEnv</Data>
+            <Binary>D9060000</Binary>
+        </EventData>
+        <RenderingInfo Culture="en-US">
+            <Message>The winlogon notification subscriber &lt;SessionEnv&gt; was unavailable to handle a notification event.</Message>
+            <Level>Information</Level>
+            <Task />
+            <Opcode />
+            <Channel />
+            <Provider>Microsoft-Windows-Winlogon</Provider>
+            <Keywords>
+                <Keyword>Classic</Keyword>
+            </Keywords>
+        </RenderingInfo>
+    </Event>
+    <Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+        <System>
+            <Provider Name="Microsoft-Windows-Winlogon" Guid="{DBE9B383-7CF3-4331-91CC-A3CB16A3B538}" EventSourceName="Wlclntfy" />
+            <EventID Qualifiers="32768">6003</EventID>
+            <Version>0</Version>
+            <Level>4</Level>
+            <Task>0</Task>
+            <Opcode>0</Opcode>
+            <Keywords>0x80000000000000</Keywords>
+            <TimeCreated SystemTime="2020-06-12T11:18:58.120549600Z" />
+            <EventRecordID>596</EventRecordID>
+            <Correlation />
+            <Execution ProcessID="0" ThreadID="0" />
+            <Channel>Application</Channel>
+            <Computer>MSEDGEWIN10</Computer>
+            <Security />
+        </System>
+        <EventData>
+            <Data>SessionEnv</Data>
+            <Binary>D9060000</Binary>
+        </EventData>
+        <RenderingInfo Culture="en-US">
+            <Message>The winlogon notification subscriber &lt;SessionEnv&gt; was unavailable to handle a critical notification event.</Message>
+            <Level>Information</Level>
+            <Task />
+            <Opcode />
+            <Channel />
+            <Provider>Microsoft-Windows-Winlogon</Provider>
+            <Keywords>
+                <Keyword>Classic</Keyword>
+            </Keywords>
+        </RenderingInfo>
+    </Event>
+    <Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+        <System>
+            <Provider Name="Microsoft-Windows-WMI" Guid="{1edeee53-0afe-4609-b846-d8c0b2075b1f}" />
+            <EventID>5617</EventID>
+            <Version>2</Version>
+            <Level>4</Level>
+            <Task>0</Task>
+            <Opcode>0</Opcode>
+            <Keywords>0x8000000000000000</Keywords>
+            <TimeCreated SystemTime="2020-06-12T11:18:51.757629900Z" />
+            <EventRecordID>595</EventRecordID>
+            <Correlation />
+            <Execution ProcessID="2196" ThreadID="2212" />
+            <Channel>Application</Channel>
+            <Computer>MSEDGEWIN10</Computer>
+            <Security UserID="S-1-5-18" />
+        </System>
+        <EventData />
+        <RenderingInfo Culture="en-US">
+            <Message>Windows Management Instrumentation Service subsystems initialized successfully</Message>
+            <Level>Information</Level>
+            <Task />
+            <Opcode>Info</Opcode>
+            <Channel>Application</Channel>
+            <Provider>Microsoft-Windows-WMI</Provider>
+            <Keywords />
+        </RenderingInfo>
+    </Event>
+    <Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+        <System>
+            <Provider Name="Puppet" />
+            <EventID Qualifiers="0">1</EventID>
+            <Level>4</Level>
+            <Task>0</Task>
+            <Keywords>0x80000000000000</Keywords>
+            <TimeCreated SystemTime="2020-06-12T11:18:50.885318200Z" />
+            <EventRecordID>594</EventRecordID>
+            <Channel>Application</Channel>
+            <Computer>MSEDGEWIN10</Computer>
+            <Security />
+        </System>
+        <EventData>
+            <Data>Service started</Data>
+        </EventData>
+        <RenderingInfo Culture="en-US">
+            <Message>Service started</Message>
+            <Level>Information</Level>
+            <Task />
+            <Opcode>Info</Opcode>
+            <Channel />
+            <Provider />
+            <Keywords>
+                <Keyword>Classic</Keyword>
+            </Keywords>
+        </RenderingInfo>
+    </Event>
+    <Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+        <System>
+            <Provider Name="Microsoft-Windows-Security-SPP" Guid="{E23B33B0-C8C9-472C-A5F9-F2BDFEA0F156}" EventSourceName="Software Protection Platform Service" />
+            <EventID Qualifiers="16384">902</EventID>
+            <Version>0</Version>
+            <Level>0</Level>
+            <Task>0</Task>
+            <Opcode>0</Opcode>
+            <Keywords>0x80000000000000</Keywords>
+            <TimeCreated SystemTime="2020-06-12T11:18:45.915956200Z" />
+            <EventRecordID>593</EventRecordID>
+            <Correlation />
+            <Execution ProcessID="0" ThreadID="0" />
+            <Channel>Application</Channel>
+            <Computer>MSEDGEWIN10</Computer>
+            <Security />
+        </System>
+        <EventData>
+            <Data>10.0.17763.379</Data>
+        </EventData>
+        <RenderingInfo Culture="en-US">
+            <Message>The Software Protection service has started.
+				10.0.17763.379</Message>
+            <Level>Information</Level>
+            <Task />
+            <Opcode />
+            <Channel />
+            <Provider>Microsoft-Windows-Security-SPP</Provider>
+            <Keywords>
+                <Keyword>Classic</Keyword>
+            </Keywords>
+        </RenderingInfo>
+    </Event>
+    <Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+        <System>
+            <Provider Name="Microsoft-Windows-Security-SPP" Guid="{E23B33B0-C8C9-472C-A5F9-F2BDFEA0F156}" EventSourceName="Software Protection Platform Service" />
+            <EventID Qualifiers="32768">1037</EventID>
+            <Version>0</Version>
+            <Level>4</Level>
+            <Task>0</Task>
+            <Opcode>0</Opcode>
+            <Keywords>0x80000000000000</Keywords>
+            <TimeCreated SystemTime="2020-06-12T11:18:45.790086500Z" />
+            <EventRecordID>592</EventRecordID>
+            <Correlation />
+            <Execution ProcessID="0" ThreadID="0" />
+            <Channel>Application</Channel>
+            <Computer>MSEDGEWIN10</Computer>
+            <Security />
+        </System>
+        <EventData>
+            <Data>validity</Data>
+            <Data>127241</Data>
+        </EventData>
+        <RenderingInfo Culture="en-US">
+            <Message>Time-based license remaining validity time 127241 minutes.</Message>
+            <Level>Information</Level>
+            <Task />
+            <Opcode />
+            <Channel />
+            <Provider>Microsoft-Windows-Security-SPP</Provider>
+            <Keywords>
+                <Keyword>Classic</Keyword>
+            </Keywords>
+        </RenderingInfo>
+    </Event>
+    <Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+        <System>
+            <Provider Name="Microsoft-Windows-Security-SPP" Guid="{E23B33B0-C8C9-472C-A5F9-F2BDFEA0F156}" EventSourceName="Software Protection Platform Service" />
+            <EventID Qualifiers="16384">1003</EventID>
+            <Version>0</Version>
+            <Level>4</Level>
+            <Task>0</Task>
+            <Opcode>0</Opcode>
+            <Keywords>0x80000000000000</Keywords>
+            <TimeCreated SystemTime="2020-06-12T11:18:45.698404600Z" />
+            <EventRecordID>591</EventRecordID>
+            <Correlation />
+            <Execution ProcessID="0" ThreadID="0" />
+            <Channel>Application</Channel>
+            <Computer>MSEDGEWIN10</Computer>
+            <Security />
+        </System>
+        <EventData>
+            <Data>55c92734-d682-4d71-983e-d6ec3f16059f</Data>
+            <Data>1: 3f4c0546-36c6-46a8-a37f-be13cdd0cf25, 1, 1 [(0 [0x00000000, 1, 0], [(?)( 1 0x00000000)(?)( 2 0x00000000 0 0 msft:rm/algorithm/hwid/4.0 0x00000000 0)(?)( 9 0x00000000 90 127241)( 10 0x00000000 msft:rm/algorithm/flags/1.0)(?)])(1 )(2 )(3 )]</Data>
+        </EventData>
+        <RenderingInfo Culture="en-US">
+            <Message>The Software Protection service has completed licensing status check.
+				Application Id=55c92734-d682-4d71-983e-d6ec3f16059f
+				Licensing Status=
+				1: 3f4c0546-36c6-46a8-a37f-be13cdd0cf25, 1, 1 [(0 [0x00000000, 1, 0], [(?)( 1 0x00000000)(?)( 2 0x00000000 0 0 msft:rm/algorithm/hwid/4.0 0x00000000 0)(?)( 9 0x00000000 90 127241)( 10 0x00000000 msft:rm/algorithm/flags/1.0)(?)])(1 )(2 )(3 )]
+				</Message>
+            <Level>Information</Level>
+            <Task />
+            <Opcode />
+            <Channel />
+            <Provider>Microsoft-Windows-Security-SPP</Provider>
+            <Keywords>
+                <Keyword>Classic</Keyword>
+            </Keywords>
+        </RenderingInfo>
+    </Event>
+    <Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+        <System>
+            <Provider Name="Microsoft-Windows-Security-SPP" Guid="{E23B33B0-C8C9-472C-A5F9-F2BDFEA0F156}" EventSourceName="Software Protection Platform Service" />
+            <EventID Qualifiers="16384">1066</EventID>
+            <Version>0</Version>
+            <Level>4</Level>
+            <Task>0</Task>
+            <Opcode>0</Opcode>
+            <Keywords>0x80000000000000</Keywords>
+            <TimeCreated SystemTime="2020-06-12T11:18:45.192501500Z" />
+            <EventRecordID>590</EventRecordID>
+            <Correlation />
+            <Execution ProcessID="0" ThreadID="0" />
+            <Channel>Application</Channel>
+            <Computer>MSEDGEWIN10</Computer>
+            <Security />
+        </System>
+        <EventData>
+            <Data>C:\Windows\system32\sppwinob.dll, msft:spp/windowsfunctionality/agent/7.0, 0x00000000, 0x00000000
+				C:\Windows\system32\sppobjs.dll, msft:rm/algorithm/inherited/1.0, 0x00000000, 0x00000000
+				C:\Windows\system32\sppobjs.dll, msft:rm/algorithm/phone/1.0, 0x00000000, 0x00000000
+				C:\Windows\system32\sppobjs.dll, msft:rm/algorithm/pkey/detect, 0x00000000, 0x00000000
+				C:\Windows\system32\sppobjs.dll, msft:spp/ActionScheduler/1.0, 0x00000000, 0x00000000
+				C:\Windows\system32\sppobjs.dll, msft:spp/TaskScheduler/1.0, 0x00000000, 0x00000000
+				C:\Windows\system32\sppobjs.dll, msft:spp/statecollector/pkey, 0x00000000, 0x00000000
+				C:\Windows\system32\sppobjs.dll, msft:spp/volume/services/kms/1.0, 0x00000000, 0x00000000
+				C:\Windows\system32\sppobjs.dll, msft:spp/volume/services/kms/activationinfo/1.0, 0x00000000, 0x00000000
+			</Data>
+        </EventData>
+        <RenderingInfo Culture="en-US">
+            <Message>Initialization status for service objects.
+				C:\Windows\system32\sppwinob.dll, msft:spp/windowsfunctionality/agent/7.0, 0x00000000, 0x00000000
+				C:\Windows\system32\sppobjs.dll, msft:rm/algorithm/inherited/1.0, 0x00000000, 0x00000000
+				C:\Windows\system32\sppobjs.dll, msft:rm/algorithm/phone/1.0, 0x00000000, 0x00000000
+				C:\Windows\system32\sppobjs.dll, msft:rm/algorithm/pkey/detect, 0x00000000, 0x00000000
+				C:\Windows\system32\sppobjs.dll, msft:spp/ActionScheduler/1.0, 0x00000000, 0x00000000
+				C:\Windows\system32\sppobjs.dll, msft:spp/TaskScheduler/1.0, 0x00000000, 0x00000000
+				C:\Windows\system32\sppobjs.dll, msft:spp/statecollector/pkey, 0x00000000, 0x00000000
+				C:\Windows\system32\sppobjs.dll, msft:spp/volume/services/kms/1.0, 0x00000000, 0x00000000
+				C:\Windows\system32\sppobjs.dll, msft:spp/volume/services/kms/activationinfo/1.0, 0x00000000, 0x00000000
+			</Message>
+            <Level>Information</Level>
+            <Task />
+            <Opcode />
+            <Channel />
+            <Provider>Microsoft-Windows-Security-SPP</Provider>
+            <Keywords>
+                <Keyword>Classic</Keyword>
+            </Keywords>
+        </RenderingInfo>
+    </Event>
+    <Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+        <System>
+            <Provider Name="Microsoft-Windows-Security-SPP" Guid="{E23B33B0-C8C9-472C-A5F9-F2BDFEA0F156}" EventSourceName="Software Protection Platform Service" />
+            <EventID Qualifiers="49152">16394</EventID>
+            <Version>0</Version>
+            <Level>4</Level>
+            <Task>0</Task>
+            <Opcode>0</Opcode>
+            <Keywords>0x80000000000000</Keywords>
+            <TimeCreated SystemTime="2020-06-12T11:18:44.962870400Z" />
+            <EventRecordID>589</EventRecordID>
+            <Correlation />
+            <Execution ProcessID="0" ThreadID="0" />
+            <Channel>Application</Channel>
+            <Computer>MSEDGEWIN10</Computer>
+            <Security />
+        </System>
+        <EventData />
+        <RenderingInfo Culture="en-US">
+            <Message>Offline downlevel migration succeeded.</Message>
+            <Level>Information</Level>
+            <Task />
+            <Opcode />
+            <Channel />
+            <Provider>Microsoft-Windows-Security-SPP</Provider>
+            <Keywords>
+                <Keyword>Classic</Keyword>
+            </Keywords>
+        </RenderingInfo>
+    </Event>
+    <Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+        <System>
+            <Provider Name="Microsoft-Windows-Security-SPP" Guid="{E23B33B0-C8C9-472C-A5F9-F2BDFEA0F156}" EventSourceName="Software Protection Platform Service" />
+            <EventID Qualifiers="16384">900</EventID>
+            <Version>0</Version>
+            <Level>4</Level>
+            <Task>0</Task>
+            <Opcode>0</Opcode>
+            <Keywords>0x80000000000000</Keywords>
+            <TimeCreated SystemTime="2020-06-12T11:18:44.593454900Z" />
+            <EventRecordID>588</EventRecordID>
+            <Correlation />
+            <Execution ProcessID="0" ThreadID="0" />
+            <Channel>Application</Channel>
+            <Computer>MSEDGEWIN10</Computer>
+            <Security />
+        </System>
+        <EventData>
+            <Data>TriggerStarted:6</Data>
+        </EventData>
+        <RenderingInfo Culture="en-US">
+            <Message>The Software Protection service is starting.
+				Parameters:TriggerStarted:6
+			</Message>
+            <Level>Information</Level>
+            <Task />
+            <Opcode />
+            <Channel />
+            <Provider>Microsoft-Windows-Security-SPP</Provider>
+            <Keywords>
+                <Keyword>Classic</Keyword>
+            </Keywords>
+        </RenderingInfo>
+    </Event>
+    <Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+        <System>
+            <Provider Name="Microsoft-Windows-WMI" Guid="{1edeee53-0afe-4609-b846-d8c0b2075b1f}" />
+            <EventID>5615</EventID>
+            <Version>2</Version>
+            <Level>4</Level>
+            <Task>0</Task>
+            <Opcode>0</Opcode>
+            <Keywords>0x8000000000000000</Keywords>
+            <TimeCreated SystemTime="2020-06-12T11:18:42.575949600Z" />
+            <EventRecordID>587</EventRecordID>
+            <Correlation />
+            <Execution ProcessID="2196" ThreadID="2208" />
+            <Channel>Application</Channel>
+            <Computer>MSEDGEWIN10</Computer>
+            <Security UserID="S-1-5-18" />
+        </System>
+        <EventData />
+        <RenderingInfo Culture="en-US">
+            <Message>Windows Management Instrumentation Service started sucessfully</Message>
+            <Level>Information</Level>
+            <Task />
+            <Opcode>Info</Opcode>
+            <Channel>Application</Channel>
+            <Provider>Microsoft-Windows-WMI</Provider>
+            <Keywords />
+        </RenderingInfo>
+    </Event>
+    <Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+        <System>
+            <Provider Name="Microsoft-Windows-User Profiles Service" Guid="{89b1e9f0-5aff-44a6-9b44-0a07a7ce5845}" />
+            <EventID>1531</EventID>
+            <Version>0</Version>
+            <Level>4</Level>
+            <Task>0</Task>
+            <Opcode>0</Opcode>
+            <Keywords>0x8000000000000000</Keywords>
+            <TimeCreated SystemTime="2020-06-12T11:18:40.735620000Z" />
+            <EventRecordID>586</EventRecordID>
+            <Correlation />
+            <Execution ProcessID="1316" ThreadID="1436" />
+            <Channel>Application</Channel>
+            <Computer>MSEDGEWIN10</Computer>
+            <Security UserID="S-1-5-18" />
+        </System>
+        <EventData />
+        <RenderingInfo Culture="en-US">
+            <Message>The User Profile Service has started successfully.</Message>
+            <Level>Information</Level>
+            <Task />
+            <Opcode>Info</Opcode>
+            <Channel>Application</Channel>
+            <Provider>Microsoft-Windows-User Profile Service</Provider>
+            <Keywords />
+        </RenderingInfo>
+    </Event>
+    <Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+        <System>
+            <Provider Name="Microsoft-Windows-EventSystem" Guid="{899daace-4868-4295-afcd-9eb8fb497561}" EventSourceName="EventSystem" />
+            <EventID Qualifiers="16384">4625</EventID>
+            <Version>0</Version>
+            <Level>4</Level>
+            <Task>0</Task>
+            <Opcode>0</Opcode>
+            <Keywords>0x80000000000000</Keywords>
+            <TimeCreated SystemTime="2020-06-12T11:18:40.760944400Z" />
+            <EventRecordID>585</EventRecordID>
+            <Correlation />
+            <Execution ProcessID="0" ThreadID="0" />
+            <Channel>Application</Channel>
+            <Computer>MSEDGEWIN10</Computer>
+            <Security />
+        </System>
+        <EventData>
+            <Data Name="param1">86400</Data>
+            <Data Name="param2">SuppressDuplicateDuration</Data>
+            <Data Name="param3">Software\Microsoft\EventSystem\EventLog</Data>
+        </EventData>
+        <RenderingInfo Culture="en-US">
+            <Message>The EventSystem sub system is suppressing duplicate event log entries for a duration of 86400 seconds.  The suppression timeout can be controlled by a REG_DWORD value named SuppressDuplicateDuration under the following registry key: HKLM\Software\Microsoft\EventSystem\EventLog.</Message>
+            <Level>Information</Level>
+            <Task />
+            <Opcode />
+            <Channel />
+            <Provider>Microsoft-Windows-EventSystem</Provider>
+            <Keywords>
+                <Keyword>Classic</Keyword>
+            </Keywords>
+        </RenderingInfo>
+    </Event>
+</Events>

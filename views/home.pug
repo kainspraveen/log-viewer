@@ -1,0 +1,80 @@
+doctype html
+head
+  meta(charset='utf-8')
+  title Log Viewer | Pulse Secure
+  link(href='https://fonts.googleapis.com/css?family=Amiri|Poiret+One&display=swap', rel='stylesheet')
+  link(href='https://fonts.googleapis.com/css?family=Sacramento&display=swap', rel='stylesheet')
+  link(href='https://fonts.googleapis.com/css?family=Quicksand&display=swap', rel='stylesheet')
+  style.
+    * {
+    margin: 0;
+    padding: 0;
+    }
+    h1.title {
+    text-align: center;
+    margin-top:10%;
+    color: black;
+    letter-spacing: 6px;
+    font-size: 4.6em;
+    font-family: 'Poiret One', cursive;
+    }
+    .start {
+      text-align: center;
+      margin-top:10%;
+      color: rgb(62,90,208);
+      letter-spacing: 6px;
+      
+      font-family: 'Poiret One', cursive;
+    }
+    #cap {
+    font-family: 'Sacramento', cursive;
+    font-size: 2.65em;
+    margin-top: -15px;
+    color: #F36570;
+    margin-left: 67%;
+    }
+    body {
+      background: rgb(131,185,177);
+      background: linear-gradient(90deg, rgba(131,185,177,1) 0%, rgba(55,202,75,1) 31%, rgba(120,180,47,1) 100%);
+      background:url("./illustration_1.png"), url("illustration_5.png"), url("heart.png"), url("hex.png"), url("back.svg");
+      background-size:280px, 250px, 350px, 200px, 100%;
+      background-repeat:no-repeat,no-repeat, no-repeat, no-repeat, no-repeat;
+      background-position:90% 330%, 10% 290%, 5% 40%, 90% 5%, -150% -150%;
+          
+      
+    }
+    
+    
+    .form {
+    margin-top: 5%;
+    ;
+    text-align: center;
+    width: 100%;
+    }
+    .search-buttn {
+    height: 40px;
+    margin-top: 4%;
+    width: 15%;
+    background: #2E86C1;
+    font-size: 20px;
+    border: none;
+    color: #fff;
+    border-radius: 8px;
+    
+    }
+    button.search-buttn:hover {
+      curser: hand;
+      background-color: #0FB656;
+    
+    }
+body
+  h1.title
+    span.start L
+    | og 
+    span.start V
+    | iewer
+
+  p#cap a new way...
+  form.form(action='/', method='POST')
+    .box
+      button.search-buttn(type='submit', name='search') Start

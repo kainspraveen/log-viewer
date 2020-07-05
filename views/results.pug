@@ -1,0 +1,164 @@
+doctype html
+html(lang='en', dir='ltr')
+  head
+  
+    meta(charset='utf-8')
+    title Your  results
+    link(href='https://fonts.googleapis.com/css?family=Quicksand&display=swap', rel='stylesheet')
+    link(href='https://fonts.googleapis.com/css?family=Inconsolata&display=swap', rel='stylesheet')
+    link(href='https://fonts.googleapis.com/css?family=Varela+Round&display=swap', rel='stylesheet')
+    link(rel='stylesheet', href='https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css')
+    script(src='https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js')
+    script(src='https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js')
+    link(href='https://fonts.googleapis.com/css2?family=Libre+Franklin&display=swap', rel='stylesheet')
+
+
+    style.
+    
+    
+      * {
+      margin:0;
+      padding:0;
+      }
+      
+      
+      p {
+      line-height:25px;
+      }
+      
+      
+      body {
+      position:relative;
+      background-color:#F1F2F1  ;
+      background-image: url("illustration_1.png"), url("illustration_5.png"), url("back.svg");
+      background-size:280px, 250px, 130%;
+      background-repeat:no-repeat, no-repeat, no-repeat;
+      background-position: 90% 90%, 10% 90%, 0% 250px;
+      background-attachment:fixed, fixed, fixed;
+      
+      }
+      
+      
+      h1 {
+      margin-top:10px;
+      font-size:3.6em;
+      color:black;
+      letter-spacing:6px;
+      text-align:center;
+      position:relative;
+      font-family: 'Libre Franklin', sans-serif;
+      }
+      
+      
+      h2 {
+      font-family: 'Varela Round', sans-serif;
+      }
+
+      
+      .processes {
+      margin-top:2%;
+      margin-left:12.5%;
+      margin-right:12.5%;
+      width:75%;
+      }
+      
+      p {
+      line-height:25px;
+      }
+      
+      h3.panel-title {
+      font-family: 'Inconsolata', monospace;
+      font-size:1.3em;
+      }
+      
+      
+      .results {
+
+        margin-left:12.5%;
+        margin-right:12.5%;
+        opacity:0.8;
+
+      }
+      
+      
+      ul.collapse.in {
+        display:hidden;
+        list-style: none;
+      }
+      ul li.det {
+        text-align: left;
+        justify-content: space-around;
+      }
+      a.module_list {
+        margin-left:10%;
+        font-size=1.2em;
+      }
+      h2.panel-title {
+        font-size:1.4em;
+      }
+      span.one {
+        color:black;
+      }
+      span.two {
+        color:black;
+      }
+      span.three {
+        color:black;
+      }
+      
+    
+      
+      
+  body
+    .results
+      h1 Processes List
+      each proc in job_desc
+        .processes
+          each details, i in proc
+            each det, j in details
+              .panel-group
+                .panel.panel-default
+                  .panel-heading
+                    h3.panel-title
+                      a(data-toggle='collapse', href="#collapse_"+j)
+                        span.one= "Process : " + Object.values(det)[11]
+                        span.two= "  |  "
+                        span.three= "Timestamp : " + j
+                  div(id="collapse_"+j, class="panel-collapse collapse")
+                    ul.list-group
+                      each val, k in det  
+                        if k!= 'modules'
+                          li#k.list-group-item= k +":"+ val
+
+                      .panel-group
+                        .panel.panel-default
+                          .panel-heading
+                            h3.panel-title
+                              a(class='module_list', data-toggle='collapse', href="#collapse2_"+j)= "Modules : "
+                          div(id="collapse2_"+j, class="panel-collapse collapse")
+                            ul.list-group
+                              each val, k in det  
+                                if k== 'modules'
+                                  each module, l in val
+                                    p="Module : "+l
+                                    each item, m in module
+                                      li#l.list-group-item= m +" : "+ item 
+                                    
+                                  else
+                                    .alert.alert-warning(role='alert')
+                                      | No Modules Found&mdash;Sorry!
+                      
+                        
+                    
+
+      else
+        strong "No Values"
+        
+          
+          
+          
+          
+          
+
+          
+      

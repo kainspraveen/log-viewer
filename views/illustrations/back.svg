@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 841" width="1920" height="841">
+  <defs>
+    <linearGradient id="b" x1=".532" y1=".123" x2=".486" y2="1.29" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#c3d9f4" />
+      <stop offset="1" stop-color="#e8f1fc" />
+    </linearGradient>
+    <clipPath id="a">
+      <path transform="translate(0 526)" fill="#fff" stroke="#707070" d="M0 0h1920v841H0z" />
+    </clipPath>
+    <style>.c{fill:#3d57d8}</style>
+  </defs>
+  <g transform="translate(0 -526)" clip-path="url(#a)">
+    <path class="c" d="M0 734h1920v633H0z" />
+    <path d="M-9392.867-8881.883s847.129-32.681 899.544-34.273 80.331 6.245 115.653 34.273c29.459 24.233 369.14 288.818 409.326 318.286s84.875 27.48 123.2 7.639 234.177-119.354 275.3-138.105c56.855-32.078 74.319-26.194 100.131-4.888-.188 30.351 0 78.771 0 258.908l-1923.152-.085z" transform="translate(9390 9807)" opacity=".108" fill="url(#b)" />
+    <path class="c" d="M0 569l119.275 55.235A148.693 148.693 0 00181.757 638h521.26a90.251 90.251 0 0030.994-5.489l191.7-70.093a51.222 51.222 0 0139.76 1.931l472.982 143.546a76.52 76.52 0 0066.927-.336l417.42-181.852 3.023 210.91H0S2.958 569 0 569z" />
+  </g>
+</svg>
